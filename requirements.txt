@@ -1,0 +1,7 @@
+# Versi yang dipakai dalam pengujian paket ini. Audit dan perbarui sebelum produksi.
+fastapi==0.128.2
+starlette==0.50.0
+uvicorn==0.48.0
+python-multipart==0.0.29
+Pillow==12.3.0
+pypdf==5.9.0
